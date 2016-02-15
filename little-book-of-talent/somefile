@@ -1,0 +1,9 @@
+to run that file in the shell
+same as a folder
+cd (file or directory)
+mkdir (folder name)
+ls -l
+vim (filename)
+normal-navigating and saving insert-editing
+abcef || abdef
+abcefgij || abcefhij || abdefgij || abdefhij
