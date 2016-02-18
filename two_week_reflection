@@ -1,0 +1,44 @@
+
+ Reflection: "Dear me from 2 weeks ago, here's what you didn't know",
+ Explain to yourself from 2 weeks ago how Ruby works. Make sure you tell
+ yourself everything you were confused about, what questions would you from 2
+ weeks ago ask you from today? What in the explanation are they confused about?
+ Answer any questions they would have. You want them to understand it just as well as you do now! FYI,
+ Imma totally read these, you should probably spend at least an hour on this.
+
+Hi Vince, This is weird. Ok I think I understand OOP. I know youve spent the last year trying to understand this
+but heres what I wish you knew. ITS HARD. NO ONE GETS IT RIGHT AWAY!! So stop beating yourself up. ok im going to explain to you
+some basic concepts to OOP as it pretains to ruby.
+
+ruby oop is brokenup into 3 parts
+Objects - The things you create
+Classes -  the things that help the objects do things
+Bindings - the way ruby keeps track of the code
+
+everything in ruby is an object.
+objects have variables that they use to keep track of things these variables only work on specific instances of objects created. another way of saying this is
+you create an object and each object you create has varaibles that it can have and if you create another object it has its own variables that it keeps track of.
+since these variables only work on the unique object created they are called instance variables. each object also has a way to look at which class it is.
+
+what is a class you ask?
+a class has methods, constants and superclasses
+a class will hold all the stuff that the object can use to interact with its instance variables. so methods can change the instance varaible values. or just return
+the instance varaiable value if thats what you want.
+classes also hold the superclass in it in case you want to use a method that the current class uses but doesnt own you can use the super classes methods too.
+classes also have constants, contants are kind of fuzzy besides the obviuos creating constants with capital letters and saving some value to them.
+constants can also be class names like Object or string
+since everything is an object. that means a class is an object.
+which means? read my object explanation. ok you didnt read it again? good just making sure this is vince. I wouldnt read it either. it means that
+the class has instance variables and a class.which the class name is class. weird i know.
+
+bindings keep track of your code
+bindings hold the local variables and return values and self and next bindings. thats a lot of weird words so ill break them down. the local varables you create
+are variables that  are object names. the return value binding helps get you back what you ask a method. self is confusing as hell. but self is which particular type of code you
+are in like if ran a method in a class then self would be that class. confusing? yes. dont worry im still having trouble with it but its coming
+
+I would say learn VIM commands better. you suck at them and you keep trying to break the rules by using the arrow keys so stop
+this school is fun so no going out the night or two nights before because the homework is lengthy.
+take care
+love,
+
+Vince
