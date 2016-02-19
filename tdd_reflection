@@ -1,0 +1,15 @@
+reflection: "Dear Monday me, lets talk about TDD"
+Explain how to do TDD to Monday you,
+who didn't know anything about it.
+
+Hi monday me
+well you knew a little TDD from the test_first_ruby
+homework you did with app academy but now you learned
+how to make tests and how to come up with tests from scratch.
+Just to recap TDD or Test driven development is how you test your code
+to make sure errors are corrected before they reach anywhere near the end of the line
+in temrs of production. the first thought might be that testing will take more time but
+down the line if a bug is found that costs everyone way more
+in terms of time and money so testing first is always the right answer
+the framework we use in this class is mrspec
+
