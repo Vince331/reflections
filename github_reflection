@@ -1,0 +1,9 @@
+The proceess of using github is as follows
+1. whatever directory youre in that you want to upload write git init in the command line
+2. then check the status
+3. type git add and the filenames or directories of things you wanna add
+4. next git status to see that the files successfully got added
+5. when finished adding files type git commit -m and a message in quotes of what you want to say about your code
+6. next go to github and then then click on your profile and click add repisitory and tpye in ypur name
+7. next copy the code git remote add origin git@github.com:Vince331/test.git
+8. and then run this code git push -u origin master

@@ -1,0 +1,8 @@
+the coolest and most useful thing ive earned and used is the binding
+pry technique that adds the availability to look around inside
+your code and see what is actually happening using this I was able to finish
+the homework last weekend the problem in particular was one
+where I was was sure i was moving objects around but thanks
+to the binding pry i was able to find out i was using an array with
+objects inside it so it made more clear what self was in this instance and
+really made me understand some of the hardest parts for me in ruby
